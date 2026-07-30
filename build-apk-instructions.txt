@@ -1,0 +1,8 @@
+Para compilar el APK:
+- Instala Android Studio en un PC.
+- Abre la carpeta android/.
+- Conecta un teléfono Android o usa un emulador.
+- Build > Build APK(s).
+- El APK aparecerá en android/app/build/outputs/apk/.
+
+Este proyecto usa Android Gradle Plugin 8.6.1 y compileSdk 35; Android Studio descargará las dependencias necesarias durante la sincronización.
